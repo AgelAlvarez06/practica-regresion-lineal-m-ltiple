@@ -25,6 +25,9 @@ Se comparan las predicciones del modelo con los valores reales del conjunto de p
 ¿Por qué es relevante este proyecto?
 
 Manejo de datos reales: incluye imputación de valores faltantes y codificación de variables categóricas.
+
 Modelado robusto: utiliza regresión lineal múltiple, técnica fundamental en ciencia de datos.
+
 Flujo reproducible y modular, fácil de adaptar a otros problemas de negocio.
+
 Enfoque y herramientas estándar en proyectos de analítica avanzada y machine learning.
